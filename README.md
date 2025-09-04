@@ -46,3 +46,4 @@ On GitHub, go to Settings → Pages and ensure the source is the gh-pages branch
 
 After a short delay, your site will be live at
 https://rishangsharma.github.io/portfolio# portfolio
+# portfolio
