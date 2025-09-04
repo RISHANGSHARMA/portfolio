@@ -1,6 +1,6 @@
 # Rishang's Netflix-style TPM Portfolio
 
-This project is a React and TypeScript web app designed to showcase my skills and experience as a Technical Program Manager. All content is served from simple JSON files so it can be hosted easily on GitHub Pages.
+This project is a React and TypeScript web app designed to showcase my skills and experience showing my prowess as Technical person . All content is served from simple JSON files so it can be hosted easily on GitHub Pages.
 
 ## Getting Started
 1. Install dependencies with `npm install`.
@@ -13,7 +13,6 @@ npm install
 npm run deploy
 ```
 
-Your portfolio will be available at [https://rishangsharma.github.io/portfolio](https://rishangsharma.github.io/portfolio).
 
 ## License
 MIT
@@ -44,6 +43,5 @@ deploy publishes the build/ folder to a gh-pages branch.
 
 On GitHub, go to Settings → Pages and ensure the source is the gh-pages branch.
 
-After a short delay, your site will be live at
-https://rishangsharma.github.io/portfolio# portfolio
+After a short delay, your site will be live atportfolio
 # portfolio
