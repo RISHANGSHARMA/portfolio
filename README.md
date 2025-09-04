@@ -1,4 +1,4 @@
-# Rishang's Netflix-style TPM Portfolio
+# Rishang's Netflix-style Portfolio
 
 This project is a React and TypeScript web app designed to showcase my skills and experience showing my prowess as Technical person . All content is served from simple JSON files so it can be hosted easily on GitHub Pages.
 
@@ -13,6 +13,7 @@ npm install
 npm run deploy
 ```
 
+Your portfolio will be available at [https://x.github.io/portfolio](https://x.github.io/portfolio).
 
 ## License
 MIT
