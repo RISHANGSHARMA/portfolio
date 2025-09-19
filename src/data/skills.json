@@ -9,7 +9,7 @@
   {"name": "Scripting_&_Progg", "category": "Technical", "description": "Python, Bash, PowerShell, Java, TypeScript, NodeJS", "icon": "FaTerminal"},
   {"name": "MLOps_& AI/ML Tools", "category": "Technical", "description": "Azure ML, MLflow, PyTorch, ONNX, DataRobot, Kubeflow", "icon": "FaRobot"},
   {"name": "Palantir_Foundry_Suite", "category": "Technical", "description": "Slate, Quiver, Contour, Code Workbooks, Object Explorer, Ontology, Writebacks, Expectations, REST APIs", "icon": "FaPuzzlePiece"},
-  {"name": "ETL_& Data_Engg", "category": "Technical", "description": "PySpark, SQL, Apache Kafka, Apache Flink, Airflow", "icon": "FaDatabase"},
+  {"name": "ETL_& Data_Engg", "category": "Technical", "description": "Informatica, PySpark, SQL, Apache Kafka, Apache Flink, Airflow", "icon": "FaDatabase"},
   {"name": "Version Control", "category": "Technical", "description": "Git, GitHub, GitLab, GitHub Enterprise, GitOps", "icon": "FaGitAlt"},
   {"name": "Monitoring_&_Logging", "category": "Technical", "description": "Prometheus, Grafana, Mimir, ELK Stack, Dynatrace", "icon": "FaChartLine"},
   {"name": "Databases", "category": "Technical", "description": "MongoDB, MySQL, PostgreSQL", "icon": "FaServer"},
